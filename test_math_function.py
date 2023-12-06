@@ -1,4 +1,5 @@
-from math_functions import add_numbers, subtract_numbers, multiply_numbers, divide_numbers
+from math_functions import add_numbers, subtract_numbers, multiply_numbers, divide_numbers, power_number, sqrt_number
+
 
 def test_calc_addition():
     output = add_numbers(2,4)
